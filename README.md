@@ -10,7 +10,7 @@ Modify the font locations in the XSL, now folder called `fonts` is expected. Als
 
 The resulting HTML file looks more or less like this:
 
-![](screenshot/kamas_example_sreenshot.png)
+![](https://github.com/hzsk/flextext2html/raw/master/screenshot/kamas_example_screenshot.png)
 
 The example is Kamas text on INEL website, originally published in Kai Donner's Kamassisches Wörterbuch, please see the HTML version [here](https://inel.corpora.uni-hamburg.de/?page_id=652) for exact authors and references.
 
